@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Main Pages -->
+  <url><loc>http://localhost/sayani/index.php</loc></url>
+  <url><loc>http://localhost/sayani/login.php</loc></url>
+  <url><loc>http://localhost/sayani/register.php</loc></url>
+  <url><loc>http://localhost/sayani/logout.php</loc></url>
+  <url><loc>http://localhost/sayani/new_password.php</loc></url>
+  <url><loc>http://localhost/sayani/profile.php</loc></url>
+  <url><loc>http://localhost/sayani/search_results.php</loc></url>
+  <url><loc>http://localhost/sayani/property_details.php</loc></url>
+  <url><loc>http://localhost/sayani/bookings.php</loc></url>
+  <url><loc>http://localhost/sayani/booking_confirmation.php</loc></url>
+  <url><loc>http://localhost/sayani/checkout.php</loc></url>
+  <url><loc>http://localhost/sayani/edit_booking.php</loc></url>
+  <url><loc>http://localhost/sayani/support.php</loc></url>
+
+  <!-- Admin Section -->
+  <url><loc>http://localhost/sayani/admin/index.php</loc></url>
+  <url><loc>http://localhost/sayani/admin/admin_login.php</loc></url>
+  <url><loc>http://localhost/sayani/admin/admin_register.php</loc></url>
+  <url><loc>http://localhost/sayani/admin/admin_logout.php</loc></url>
+  <url><loc>http://localhost/sayani/admin/add_property.php</loc></url>
+  <url><loc>http://localhost/sayani/admin/edit_property.php</loc></url>
+  <url><loc>http://localhost/sayani/admin/properties.php</loc></url>
+  <url><loc>http://localhost/sayani/admin/amenities.php</loc></url>
+  <url><loc>http://localhost/sayani/admin/offers.php</loc></url>
+  <url><loc>http://localhost/sayani/admin/users.php</loc></url>
+  <url><loc>http://localhost/sayani/admin/edit_user.php</loc></url>
+  <url><loc>http://localhost/sayani/admin/bookings.php</loc></url>
+  <url><loc>http://localhost/sayani/admin/edit_booking.php</loc></url>
+  <url><loc>http://localhost/sayani/admin/reviews.php</loc></url>
+  <url><loc>http://localhost/sayani/admin/support.php</loc></url>
+  <url><loc>http://localhost/sayani/admin/activity_logs.php</loc></url>
+
+</urlset>
